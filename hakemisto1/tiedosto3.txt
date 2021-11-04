@@ -1,1 +1,3 @@
 Tätäkin tiedoston sisältöä muutan näin.
+Ja mitä tänne muuteen git add -p:tä varten?
+Otan puolet äksistä poisxxxxxxxxxx Monta äksää.
