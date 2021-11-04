@@ -1,3 +1,0 @@
-Lisään tänne tekstiä.
-Ja taas muutoksia sitten.
-Voiko tämä rivin ottaa pois git add -p -komennon avulla?
