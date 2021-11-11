@@ -35,7 +35,6 @@ class Varasto:
         if maara > self.saldo:
             kaikki_mita_voidaan = self.saldo
             self.saldo = 0.0
-            print("123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890")
             return kaikki_mita_voidaan
 
         self.saldo = self.saldo - maara
